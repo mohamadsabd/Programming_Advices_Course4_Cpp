@@ -8,6 +8,6 @@ void Printname(string name)
 
 int main()
 {
-	Printname(name);
+	Printname("name");
 	return 0;
 }
