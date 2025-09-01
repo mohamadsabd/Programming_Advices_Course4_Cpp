@@ -21,3 +21,4 @@ int main()
     PrintName(ReadName());
     return 0;
 }
+
